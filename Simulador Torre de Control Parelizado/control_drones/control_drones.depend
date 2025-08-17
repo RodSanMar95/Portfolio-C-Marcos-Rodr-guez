@@ -1,0 +1,286 @@
+# depslib dependency file v1.0
+1671705950 source:d:\informatica industrial\entregable_2\control_drones\src\bateria.cpp
+	"bateria.h"
+	"msg.h"
+
+1671642926 d:\informatica industrial\entregable_2\control_drones\include\bateria.h
+	<iostream>
+	<fstream>
+
+1671727112 d:\informatica industrial\entregable_2\control_drones\include\msg.h
+	<iostream>
+	<fstream>
+	"colalim.h"
+	"bateria.h"
+
+1671726594 d:\informatica industrial\entregable_2\control_drones\include\colalim.h
+	<deque>
+	<mutex>
+	<thread>
+	"globales.h"
+	"msg.h"
+
+1671640600 d:\informatica industrial\entregable_2\control_drones\include\globales.h
+	<chrono>
+	<ctime>
+	<iostream>
+	<fstream>
+
+1671707086 source:d:\informatica industrial\entregable_2\control_drones\src\msg.cpp
+	"msg.h"
+
+1671728062 source:d:\informatica industrial\entregable_2\control_drones\main.cpp
+	<iostream>
+	<fstream>
+	<thread>
+	<vector>
+	<mutex>
+	<chrono>
+	<ctime>
+	<algorithm>
+	<deque>
+	"imprimir.h"
+	"drone.h"
+	"randomentero.h"
+	"radomreal.h"
+	"globales.h"
+	"torrecontrol.h"
+	"msg.h"
+	"colalim.h"
+
+1671307172 d:\informatica industrial\entregable_2\control_drones\include\imprimir.h
+
+1671551206 d:\informatica industrial\entregable_2\control_drones\include\drone.h
+	<thread>
+	<deque>
+	<vector>
+	<math.h>
+	<fstream>
+	<algorithm>
+	<iostream>
+	<fstream>
+	<chrono>
+	<ctime>
+	"globales.h"
+	"colalim.h"
+	"msg.h"
+	"bateria.h"
+	"radomreal.h"
+	"randomentero.h"
+	"imprimir.h"
+
+1671724016 source:d:\informatica industrial\entregable_2\control_drones\src\torrecontrol.cpp
+	"torrecontrol.h"
+	"globales.h"
+	<limits>
+
+1671646078 d:\informatica industrial\entregable_2\control_drones\include\torrecontrol.h
+	"colalim.h"
+	"imprimir.h"
+	"msg.h"
+	"drone.h"
+	<vector>
+
+1671721672 source:d:\informatica industrial\entregable_2\control_drones\src\drone.cpp
+	"drone.h"
+
+1671548654 d:\informatica industrial\entregable_2\control_drones\include\radomreal.h
+	<random>
+	<ctime>
+	<iostream>
+
+1671307098 d:\informatica industrial\entregable_2\control_drones\include\randomentero.h
+	<random>
+	<ctime>
+	<iostream>
+
+1671728062 source:d:\informatica industrial\entregable_2_marcos_rodriguez_sanz\control_drones\main.cpp
+	<iostream>
+	<fstream>
+	<thread>
+	<vector>
+	<mutex>
+	<chrono>
+	<ctime>
+	<algorithm>
+	<deque>
+	"imprimir.h"
+	"drone.h"
+	"randomentero.h"
+	"radomreal.h"
+	"globales.h"
+	"torrecontrol.h"
+	"msg.h"
+	"colalim.h"
+
+1671307172 d:\informatica industrial\entregable_2_marcos_rodriguez_sanz\control_drones\include\imprimir.h
+
+1672054392 d:\informatica industrial\entregable_2_marcos_rodriguez_sanz\control_drones\include\drone.h
+	<thread>
+	<deque>
+	<vector>
+	<math.h>
+	<fstream>
+	<algorithm>
+	<iostream>
+	<fstream>
+	<chrono>
+	<ctime>
+	"globales.h"
+	"colalim.h"
+	"msg.h"
+	"bateria.h"
+	"radomreal.h"
+	"randomentero.h"
+	"imprimir.h"
+
+1671640600 d:\informatica industrial\entregable_2_marcos_rodriguez_sanz\control_drones\include\globales.h
+	<chrono>
+	<ctime>
+	<iostream>
+	<fstream>
+
+1671726594 d:\informatica industrial\entregable_2_marcos_rodriguez_sanz\control_drones\include\colalim.h
+	<deque>
+	<mutex>
+	<thread>
+	"globales.h"
+	"msg.h"
+
+1671727112 d:\informatica industrial\entregable_2_marcos_rodriguez_sanz\control_drones\include\msg.h
+	<iostream>
+	<fstream>
+	"colalim.h"
+	"bateria.h"
+
+1671642926 d:\informatica industrial\entregable_2_marcos_rodriguez_sanz\control_drones\include\bateria.h
+	<iostream>
+	<fstream>
+
+1671548654 d:\informatica industrial\entregable_2_marcos_rodriguez_sanz\control_drones\include\radomreal.h
+	<random>
+	<ctime>
+	<iostream>
+
+1671307098 d:\informatica industrial\entregable_2_marcos_rodriguez_sanz\control_drones\include\randomentero.h
+	<random>
+	<ctime>
+	<iostream>
+
+1672055252 d:\informatica industrial\entregable_2_marcos_rodriguez_sanz\control_drones\include\torrecontrol.h
+	"colalim.h"
+	"imprimir.h"
+	"msg.h"
+	"drone.h"
+	<vector>
+
+1671705950 source:d:\informatica industrial\entregable_2_marcos_rodriguez_sanz\control_drones\src\bateria.cpp
+	"bateria.h"
+	"msg.h"
+
+1671721672 source:d:\informatica industrial\entregable_2_marcos_rodriguez_sanz\control_drones\src\drone.cpp
+	"drone.h"
+
+1671707086 source:d:\informatica industrial\entregable_2_marcos_rodriguez_sanz\control_drones\src\msg.cpp
+	"msg.h"
+
+1671724016 source:d:\informatica industrial\entregable_2_marcos_rodriguez_sanz\control_drones\src\torrecontrol.cpp
+	"torrecontrol.h"
+	"globales.h"
+	<limits>
+
+1671728062 source:d:\informatica industrial\entregable_2_marcos_rodriguez_sanz_4l\control_drones\main.cpp
+	<iostream>
+	<fstream>
+	<thread>
+	<vector>
+	<mutex>
+	<chrono>
+	<ctime>
+	<algorithm>
+	<deque>
+	"imprimir.h"
+	"drone.h"
+	"randomentero.h"
+	"radomreal.h"
+	"globales.h"
+	"torrecontrol.h"
+	"msg.h"
+	"colalim.h"
+
+1671307172 d:\informatica industrial\entregable_2_marcos_rodriguez_sanz_4l\control_drones\include\imprimir.h
+
+1672054392 d:\informatica industrial\entregable_2_marcos_rodriguez_sanz_4l\control_drones\include\drone.h
+	<thread>
+	<deque>
+	<vector>
+	<math.h>
+	<fstream>
+	<algorithm>
+	<iostream>
+	<fstream>
+	<chrono>
+	<ctime>
+	"globales.h"
+	"colalim.h"
+	"msg.h"
+	"bateria.h"
+	"radomreal.h"
+	"randomentero.h"
+	"imprimir.h"
+
+1671640600 d:\informatica industrial\entregable_2_marcos_rodriguez_sanz_4l\control_drones\include\globales.h
+	<chrono>
+	<ctime>
+	<iostream>
+	<fstream>
+
+1671726594 d:\informatica industrial\entregable_2_marcos_rodriguez_sanz_4l\control_drones\include\colalim.h
+	<deque>
+	<mutex>
+	<thread>
+	"globales.h"
+	"msg.h"
+
+1671727112 d:\informatica industrial\entregable_2_marcos_rodriguez_sanz_4l\control_drones\include\msg.h
+	<iostream>
+	<fstream>
+	"colalim.h"
+	"bateria.h"
+
+1671642926 d:\informatica industrial\entregable_2_marcos_rodriguez_sanz_4l\control_drones\include\bateria.h
+	<iostream>
+	<fstream>
+
+1671548654 d:\informatica industrial\entregable_2_marcos_rodriguez_sanz_4l\control_drones\include\radomreal.h
+	<random>
+	<ctime>
+	<iostream>
+
+1671307098 d:\informatica industrial\entregable_2_marcos_rodriguez_sanz_4l\control_drones\include\randomentero.h
+	<random>
+	<ctime>
+	<iostream>
+
+1672055252 d:\informatica industrial\entregable_2_marcos_rodriguez_sanz_4l\control_drones\include\torrecontrol.h
+	"colalim.h"
+	"imprimir.h"
+	"msg.h"
+	"drone.h"
+	<vector>
+
+1671705950 source:d:\informatica industrial\entregable_2_marcos_rodriguez_sanz_4l\control_drones\src\bateria.cpp
+	"bateria.h"
+	"msg.h"
+
+1671721672 source:d:\informatica industrial\entregable_2_marcos_rodriguez_sanz_4l\control_drones\src\drone.cpp
+	"drone.h"
+
+1671707086 source:d:\informatica industrial\entregable_2_marcos_rodriguez_sanz_4l\control_drones\src\msg.cpp
+	"msg.h"
+
+1671724016 source:d:\informatica industrial\entregable_2_marcos_rodriguez_sanz_4l\control_drones\src\torrecontrol.cpp
+	"torrecontrol.h"
+	"globales.h"
+	<limits>
+

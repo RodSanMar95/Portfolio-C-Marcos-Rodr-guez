@@ -1,0 +1,37 @@
+Vehiculos a Monitorizar: 71 59 13 35 88 
+Vehiculo 71: (26.9675,15.3337) Velocidad: 0.248786 Temperatura: 5.94405 BATERIA:[########--] (85%)  Fecha actual: Thu Jul 17 14:25:18 2025
+Vehiculo 59: (22.9819,-27.2378) Velocidad: 0.310221 Temperatura: 8.38548 BATERIA:[########--] (81%)  Fecha actual: Thu Jul 17 14:25:18 2025
+Vehiculo 13: (11.0923,-65.5195) Velocidad: 0.329628 Temperatura: 17.8238 BATERIA:[#####-----] (59%)  Fecha actual: Thu Jul 17 14:25:18 2025
+Vehiculo 35: (41.3567,68.4635) Velocidad: 0.101221 Temperatura: -0.611337 BATERIA:[#######---] (72%)  Fecha actual: Thu Jul 17 14:25:18 2025
+Vehiculo 88: (25.4088,1.63526) Velocidad: 0.459641 Temperatura: 10.3271 BATERIA:[#########-] (96%)  Fecha actual: Thu Jul 17 14:25:18 2025
+Vehiculo 71: (24.4797,12.8458) Velocidad: 0.248786 Temperatura: 5.94405 BATERIA:[########--] (81%)  Fecha actual: Thu Jul 17 14:25:28 2025
+Vehiculo 59: (19.8796,-24.1356) Velocidad: 0.310221 Temperatura: 8.38548 BATERIA:[#######---] (75%)  Fecha actual: Thu Jul 17 14:25:28 2025
+Vehiculo 13: (14.3886,-62.2233) Velocidad: 0.329628 Temperatura: 17.8238 BATERIA:[#####-----] (53%)  Fecha actual: Thu Jul 17 14:25:28 2025
+Vehiculo 35: (40.3445,67.4513) Velocidad: 0.101221 Temperatura: -0.611337 BATERIA:[#######---] (70%)  Fecha actual: Thu Jul 17 14:25:28 2025
+Vehiculo 88: (20.8124,6.23167) Velocidad: 0.459641 Temperatura: 10.3271 BATERIA:[########--] (88%)  Fecha actual: Thu Jul 17 14:25:28 2025
+Vehiculo 71: (24.4797,12.8458) Velocidad: 0.248786 Temperatura: 5.94405 BATERIA:[########--] (81%)  Fecha actual: Thu Jul 17 14:25:38 2025
+Vehiculo 59: (19.8796,-24.1356) Velocidad: 0.310221 Temperatura: 8.38548 BATERIA:[#######---] (75%)  Fecha actual: Thu Jul 17 14:25:38 2025
+Vehiculo 13: (14.3886,-62.2233) Velocidad: 0.329628 Temperatura: 17.8238 BATERIA:[#####-----] (53%)  Fecha actual: Thu Jul 17 14:25:38 2025
+Vehiculo 35: (40.3445,67.4513) Velocidad: 0.101221 Temperatura: -0.611337 BATERIA:[#######---] (70%)  Fecha actual: Thu Jul 17 14:25:38 2025
+Vehiculo 88: (20.8124,6.23167) Velocidad: 0.459641 Temperatura: 10.3271 BATERIA:[########--] (88%)  Fecha actual: Thu Jul 17 14:25:38 2025
+Fin del periodo de monitorizacion del vehiculo 71.
+Fin del periodo de monitorizacion del vehiculo 59.
+Fin del periodo de monitorizacion del vehiculo 13.
+Fin del periodo de monitorizacion del vehiculo 35.
+Fin del periodo de monitorizacion del vehiculo 88.
+
+Extrayendo mensajes de la cola...
+Vehiculo 88: (20.8124,6.23167) Velocidad: 0.459641 Temperatura: 10.3271  BATERIA:[########--] (88%) 
+Vehiculo 35: (40.3445,67.4513) Velocidad: 0.101221 Temperatura: -0.611337  BATERIA:[#######---] (70%) 
+Vehiculo 13: (14.3886,-62.2233) Velocidad: 0.329628 Temperatura: 17.8238  BATERIA:[#####-----] (53%) 
+Vehiculo 59: (19.8796,-24.1356) Velocidad: 0.310221 Temperatura: 8.38548  BATERIA:[#######---] (75%) 
+Vehiculo 71: (24.4797,12.8458) Velocidad: 0.248786 Temperatura: 5.94405  BATERIA:[########--] (81%) 
+Vehiculo 88: (20.8124,6.23167) Velocidad: 0.459641 Temperatura: 10.3271  BATERIA:[########--] (88%) 
+Vehiculo 35: (40.3445,67.4513) Velocidad: 0.101221 Temperatura: -0.611337  BATERIA:[#######---] (70%) 
+Vehiculo 13: (14.3886,-62.2233) Velocidad: 0.329628 Temperatura: 17.8238  BATERIA:[#####-----] (53%) 
+Vehiculo 59: (19.8796,-24.1356) Velocidad: 0.310221 Temperatura: 8.38548  BATERIA:[#######---] (75%) 
+Vehiculo 71: (24.4797,12.8458) Velocidad: 0.248786 Temperatura: 5.94405  BATERIA:[########--] (81%) 
+
+Los mensajes de la cola han sido procesados y eliminados con exito.
+
+Finalizando el programa...
